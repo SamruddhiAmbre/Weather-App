@@ -26,7 +26,6 @@ A minimal and aesthetic weather app built with React that shows real-time weathe
 
 ## 📁 Folder Structure
 ```
-weather/
 ├── node_modules/              # Project dependencies
 ├── public/                    
 ├── src/                       
