@@ -26,21 +26,36 @@ A minimal and aesthetic weather app built with React that shows real-time weathe
 
 ## 📁 Folder Structure
 ```
-src/
-├── assets/ # Images and icons for different weather types
-│ ├── cloudy.png
-│ ├── drizzle.png
-│ ├── rain.png
-│ ├── snow.png
-│ ├── sunny.png
-│ ├── wind.png
-│ └── search.jpg
-├── components/
-│ ├── Weather.jsx
-│ └── Weather.css
-├── App.jsx
-├── index.css
-├── main.jsx
+weather/
+├── node_modules/              # Project dependencies
+├── public/                    # Static files
+├── src/                       # Source code
+│   ├── assets/                # Weather icons and background images
+│   │   ├── cloudy.png
+│   │   ├── day.jpg
+│   │   ├── drizzle.png
+│   │   ├── night.jpg
+│   │   ├── overcast.png
+│   │   ├── rain.png
+│   │   ├── search.jpg
+│   │   ├── snow.png
+│   │   ├── sunny.png
+│   │   └── wind.png
+│   ├── components/            # React components
+│   │   ├── Weather.jsx
+│   │   └── Weather.css
+│   ├── App.jsx                # Main App component
+│   ├── index.css              # Global styles
+│   └── main.jsx               # Entry point
+├── .gitignore                 # Git ignore rules
+├── eslint.config.js          # ESLint configuration
+├── index.html                # HTML template
+├── package.json              # Project metadata and scripts
+├── package-lock.json         # Dependency lock file
+├── vite.config.js            # Vite configuration
+├── LICENSE.txt               # Project license (MIT)
+└── README.md                 # Project documentation
+
 ```
 
 ---
