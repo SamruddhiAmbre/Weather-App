@@ -78,7 +78,7 @@ weather/
     ```bash
      npm install
 3. Set up your API key:
-   Create a .env file in the root and add your OpenWeatherMap API key:
+   Create a .env file in the root (same level as package.json) and add your OpenWeatherMap API key:
    ```bash
    VITE_API_KEY=your_api_key_here
    ```
