@@ -73,7 +73,6 @@ A minimal and aesthetic weather app built with React that shows real-time weathe
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/yourusername/weather-app.git
-   cd weather
  2. **Install dependencies:**
     ```bash
      npm install
