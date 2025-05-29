@@ -46,16 +46,15 @@ weather/
 │   │   └── Weather.css
 │   ├── App.jsx                
 │   ├── index.css              
-│   └── main.jsx              
+│   └── main.jsx
+├── .env                 
 ├── .gitignore                 
 ├── eslint.config.js          
 ├── index.html                
 ├── package.json              
 ├── package-lock.json         
-├── vite.config.js           
-├── LICENSE.txt               
-└── README.md                
-
+└── vite.config.js           
+              
 ```
 
 ---
@@ -73,7 +72,7 @@ weather/
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/yourusername/weather-app.git
-   cd weather-app
+   cd weather
  2. **Install dependencies:**
     ```bash
      npm install
