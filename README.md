@@ -26,7 +26,8 @@ A minimal and aesthetic weather app built with React that shows real-time weathe
 
 ## 📸 Screenshots
 
-![Cozy Weather App Screenshot](./screenshots/main.png)
+![Cozy Weather App Screenshot](./Screenshots/Darkmode.jpg)
+![Cozy Weather App Screenshot](./Screenshots/Lightmode.jpg)
 
 ---
 
