@@ -28,8 +28,8 @@ A minimal and aesthetic weather app built with React that shows real-time weathe
 ```
 weather/
 ├── node_modules/              # Project dependencies
-├── public/                    # Static files
-├── src/                       # Source code
+├── public/                    
+├── src/                       
 │   ├── assets/                # Weather icons and background images
 │   │   ├── cloudy.png
 │   │   ├── day.jpg
@@ -41,20 +41,20 @@ weather/
 │   │   ├── snow.png
 │   │   ├── sunny.png
 │   │   └── wind.png
-│   ├── components/            # React components
+│   ├── components/            
 │   │   ├── Weather.jsx
 │   │   └── Weather.css
-│   ├── App.jsx                # Main App component
-│   ├── index.css              # Global styles
-│   └── main.jsx               # Entry point
-├── .gitignore                 # Git ignore rules
-├── eslint.config.js          # ESLint configuration
-├── index.html                # HTML template
-├── package.json              # Project metadata and scripts
-├── package-lock.json         # Dependency lock file
-├── vite.config.js            # Vite configuration
-├── LICENSE.txt               # Project license (MIT)
-└── README.md                 # Project documentation
+│   ├── App.jsx                
+│   ├── index.css              
+│   └── main.jsx              
+├── .gitignore                 
+├── eslint.config.js          
+├── index.html                
+├── package.json              
+├── package-lock.json         
+├── vite.config.js           
+├── LICENSE.txt               
+└── README.md                
 
 ```
 
