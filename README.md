@@ -24,13 +24,6 @@ A minimal and aesthetic weather app built with React that shows real-time weathe
 
 ---
 
-## 📸 Screenshots
-
-![Cozy Weather App Screenshot](./Screenshots/Darkmode.png)
-![Cozy Weather App Screenshot](./Screenshots/Lightmode.png)
-
----
-
 ## 📁 Folder Structure
 ```
 src/
