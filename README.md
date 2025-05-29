@@ -1,6 +1,7 @@
 # 🌦️ Weather App
 
 [Live Demo](https://SamruddhiAmbre.github.io/Weather-App/)
+
 A minimal and aesthetic weather app built with React that shows real-time weather data using the OpenWeatherMap API.
 
 ---
